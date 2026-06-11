@@ -9,10 +9,10 @@ import { NavLink } from "react-router-dom";
 function Footer() {
   let Location =
     "https://www.google.com/maps?ll=29.404426,76.97936&z=17&t=m&hl=en&gl=IN&mapclient=embed&q=Bhawna+Chowk+Tehsil+Camp+Panipat+Taraf+Ansar,+Panipat,+Haryana+132103";
-  let insta = "https://www.instagram.com/kamal_pandey_27/?hl=en";
-  let fb = "https://www.facebook.com/profile.php?id=100025514138525";
+  let insta = "https://www.instagram.com/anmolsharma__03/?hl=en";
+  let fb = "https://www.facebook.com/anmol.sharma.4257";
   let twitter = "https://x.com/?lang=en";
-  let linkdin = "https://www.linkedin.com/in/kamal-pandey-132733262/";
+  let linkdin = "https://www.linkedin.com/in/anmol-sharma-06656924b/";
 
   return (
     <>
